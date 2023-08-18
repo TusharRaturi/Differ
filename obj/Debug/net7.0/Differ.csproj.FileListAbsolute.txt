@@ -1,0 +1,15 @@
+C:\Users\Tushar\Documents\VSProjects\Differ\bin\Debug\net7.0\Differ.exe
+C:\Users\Tushar\Documents\VSProjects\Differ\bin\Debug\net7.0\Differ.deps.json
+C:\Users\Tushar\Documents\VSProjects\Differ\bin\Debug\net7.0\Differ.runtimeconfig.json
+C:\Users\Tushar\Documents\VSProjects\Differ\bin\Debug\net7.0\Differ.dll
+C:\Users\Tushar\Documents\VSProjects\Differ\bin\Debug\net7.0\Differ.pdb
+C:\Users\Tushar\Documents\VSProjects\Differ\obj\Debug\net7.0\Differ.csproj.AssemblyReference.cache
+C:\Users\Tushar\Documents\VSProjects\Differ\obj\Debug\net7.0\Differ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tushar\Documents\VSProjects\Differ\obj\Debug\net7.0\Differ.AssemblyInfoInputs.cache
+C:\Users\Tushar\Documents\VSProjects\Differ\obj\Debug\net7.0\Differ.AssemblyInfo.cs
+C:\Users\Tushar\Documents\VSProjects\Differ\obj\Debug\net7.0\Differ.csproj.CoreCompileInputs.cache
+C:\Users\Tushar\Documents\VSProjects\Differ\obj\Debug\net7.0\Differ.dll
+C:\Users\Tushar\Documents\VSProjects\Differ\obj\Debug\net7.0\refint\Differ.dll
+C:\Users\Tushar\Documents\VSProjects\Differ\obj\Debug\net7.0\Differ.pdb
+C:\Users\Tushar\Documents\VSProjects\Differ\obj\Debug\net7.0\Differ.genruntimeconfig.cache
+C:\Users\Tushar\Documents\VSProjects\Differ\obj\Debug\net7.0\ref\Differ.dll
